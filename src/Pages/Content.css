@@ -1,0 +1,7 @@
+.o-container{
+    background: white;
+    padding: 80px;
+    margin: 50px 100px 80px;
+    border-radius: 15px;
+    box-shadow: 0px 2px 6px 1px rgb(0, 0, 0, 0.3);
+}

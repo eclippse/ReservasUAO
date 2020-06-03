@@ -1,0 +1,19 @@
+.o-logoHUAO{
+    height: 3rem;
+    padding: 0.5rem;
+}
+
+.o-navbar{
+    position: unset;
+    padding: 0 auto ;
+    background: white;
+}
+
+
+.o-link{
+    color:black;
+}
+
+.o-link:hover{
+    color:red;
+}

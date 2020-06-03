@@ -1,0 +1,26 @@
+
+
+.o-cards{
+    color: white;
+}
+
+.o-linkFoot{
+    color: white;
+
+}
+.o-linkFoot:Hover{
+    color: rgb(78, 1, 1);
+    margin: 0;
+
+}
+
+.o-linkF{
+    color: white;
+    margin: 0;
+}
+
+.o-linkF:hover{
+    color: rgb(78, 1, 1);
+}
+
+p{margin: 0;}

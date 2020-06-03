@@ -1,0 +1,15 @@
+.o-MapUAO{
+    width: 100%;
+}
+
+.o-contEl{
+    position: absolute;
+}
+
+.o-listR{
+    position: absolute;
+    width: 9vw;
+    height: auto;
+    top: 72%;
+    right: 22%;
+}
