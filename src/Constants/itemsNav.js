@@ -1,22 +1,22 @@
 export default[
     {
         title:"Inicio",
-        url:"/#"
+        url:"/Pages/Home"
     },
     {
         title:"Reservar",
-        url:"/Reservation"
+        url:"/Pages/Reservation"
     },
     {
         title:"Espacios Reservados",
-        url:"/MyReservations"
+        url:"/Pages/MyReservations"
     },
     {
         title:"Mapa",
-        url:"/Map"
+        url:"/Pages/Map"
     },
     {
         title:"Soporte",
-        url:"/Support"
+        url:"/Pages/Support"
     }
 ];

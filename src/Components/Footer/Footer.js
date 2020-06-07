@@ -1,65 +1,42 @@
 import React from 'react';
-import LogoH from '../../Resources/logo_Horizontal.png';
-import "./Footer.css"
+import './Footer.css'
+import logoN from '../../Resources/Footer/logoN.png'
+import logoA from '../../Resources/Footer/LogoA.png'
+import { Grid } from '@material-ui/core';
+import { NavLink, Link } from 'react-router-dom';
 import itemsNav from '../../Constants/itemsNav.js';
-import { NavLink } from 'react-router-dom';
-import { Link } from 'react-router-dom';
 
-
-class Footer extends React.Component {
-
-  render() {
-
-    return (
-
-      <footer className="footer py-3 bg-danger d-flex justify-content-around">
-          <div className="">
-            <img src={LogoH}
-              className="o-logoHUAO"
-              alt="logo Horizontal de UAO Reservas" />
-          </div>
-          <div className="card-group o-cards">
-            <div className="card-sm bg-danger">
-              <div className="card-body">
-                <h5 className="card-title">Páginas Institucionales</h5>
-                <a className="card-text o-linkF" href="www.uao.edu.co">www.uao.edu.co</a><br></br>
-                <a className="card-text o-linkF" href="www.uaovirtual.edu.co">www.uaovirutal.edu.co</a>
-              </div>
-            </div>
-            <div className="card-sm bg-danger">
-              <div className="card-body">
-                <h5 className="card-title">Links del sitio</h5>
-                {itemsNav && itemsNav.map((itemsNav, key) =>
-                    <Link key={key} to={itemsNav.url} className="nav-link">
-                      <p className="o-linkFoot">{itemsNav.title}</p>
-                    </Link>)}
-              </div>
-            </div>
-            <div className="card-sm bg-danger">
-              <div className="card-body">
-                <h5 className="card-title">Universidad Autonoma de Occidente</h5>
-                <p className="card-text">
-                  PBX: + 2 318 8000 <br></br>
-                  Linea gratuita: 01 8000 91 34 35 <br></br>
-                  buzon@uao.edu.co<br></br>
-                  Calle 25 No. 115-8 km 2 Vía Cali - Jamundí
-                </p>
-              </div>
-            </div>
-          </div>
-          <div>
-            <img src={LogoH}
-              className="o-logoHUAO mt-2 mt-md-0"
-              alt="logo Horizontal de UAO Reservas" />
-            <p> &copy; {(new Date().getFullYear())} UAO Reservas </p>
-          </div>
-        {/*  <row>
-          <p className="float-right"><a href="#">Subir</a></p>
-        </row> */}
-
-      </footer>
-    )
-  }
+const Footer = () => {
+  return ( <div className="o-footer-container">
+    <div className="o-footer">
+    <div className="o-container-logoN">
+    <img src={logoN}/>
+    </div>
+    <div  className="o-container-text">
+      <h5>Páginas Institucionales</h5>
+      <p><a href="https://www.uao.edu.co/" target="_blank">www.uao.edu.co</a></p>
+      <p><a href="https://campus.uaovirtual.edu.co/" target="_blank">www.uaovirtual.edu.co</a></p>
+    </div>
+    <div className="o-container-text-menu">
+      <h5>Links del sitio</h5>
+      <Link to="/Pages/Home"><p>Inicio</p></Link>
+      <Link to="/Pages/Reservation"><p>Reservar</p></Link>
+      <Link to="/Pages/MyReservations"><p>Espacios reservados</p></Link>
+      <Link to="/Pages/Map"><p>Mapa</p></Link>
+      <Link to="/Pages/Support"><p>Soporte</p></Link>
+    </div>
+    <div className="o-container-text">
+      <h5>Universidad Autónoma de Occidente</h5>
+      <p>PBX: + 2 318 8000</p>
+      <p>Línea gratuita: 01 8000 91 34 35</p>
+      <p>buzon@uao.edu.c</p>
+      <p>Calle 25 No. 115-85 km 2 Vía Cali - Jamundí</p>
+    </div>
+    <div className="o-container-logoA">
+    <img src={logoA} />
+    </div>
+    </div>
+  </div> );
 }
-
+ 
 export default Footer;

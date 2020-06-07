@@ -1,4 +1,9 @@
 .o-container-title{
+    padding: 160px 0 0 0;
+    text-align: center;
+}
+
+.o-container-title-home{
     padding: 80px 0 0 0;
     text-align: center;
 }

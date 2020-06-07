@@ -1,0 +1,56 @@
+.o-container-user{
+    display: flex;
+    align-items: center;
+}
+
+
+.o-container-imgUser{
+    width: 50px;
+    height: 50px;
+    padding-left: 10px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-around; */
+    
+}
+
+.o-container-imgUser img{ 
+    width: 50px;
+    border-radius: 999px;
+    /* padding-bottom: 10px; */
+    width: 100%;
+}
+
+.o-container-imgUser h6{
+    color: #AE002D;
+    margin: 0;
+}
+
+.o-container-imgUser h6:hover{
+    color: #C2272D;
+    text-decoration: none;
+}
+
+.o-singout:hover{
+    text-decoration: none;
+}
+
+.o-info-user{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #4D4D4D;
+}
+
+.o-user-name{
+    text-align: end;
+    
+    font-size: 16px;
+    margin: 0;
+}
+
+.o-user-email{
+    font-size: 14px;
+    margin: 0;
+    font-weight: 400;
+}

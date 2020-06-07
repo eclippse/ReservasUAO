@@ -1,19 +1,45 @@
+
+
+.o-container-nav{
+    padding: 0 80px;
+}
+
 .o-logoHUAO{
-    height: 3rem;
-    padding: 0.5rem;
+    width: 100%;
+}
+
+.o-container-logo{
+    display: flex;
+    align-items: center;
 }
 
 .o-navbar{
-    position: unset;
-    padding: 0 auto ;
+
     background: white;
+    box-shadow: 0px 1px 2px 1px rgb(0, 0, 0, 0.3);
+
 }
 
 
 .o-link{
     color:black;
+    margin: 0;
+    padding: 10px 0;
 }
 
 .o-link:hover{
     color:red;
+}
+
+.o-link:active{
+    font-weight: 600;
+}
+
+.o-link:active::before{
+    font-weight: 600;
+}
+
+.nav-link{
+    display: flex;
+    align-items: center;
 }

@@ -1,16 +1,19 @@
 import React from 'react';
-import './CardSupport.css';
+import '../../Pages/Content.css'
+import '../../Pages/Support/Support.css';
 
 
 
 const CardSupport = ({imgContact, opContact, descContact}) => {
   return (
     <div>
-      <div className="card text-center o-cardS p-5">
+      <div className="o-container-card">
         <div className="card-body">
-          <img className="o-imgContact pb-4" src={imgContact} alt="img" />
-          <h5 className="card-title">{opContact}</h5>
-          <h5 className="card-text">{descContact}</h5>
+          <div className="o-container-image">
+          <img className="o-imgContact" src={imgContact} alt="img" />
+          </div>
+          <h6 className="o-card-title">{opContact}</h6>
+          <h5 className="o-card-text">{descContact}</h5>
         </div>
       </div>
     </div>

@@ -1,6 +1,6 @@
-import imgContactW from "../Resources/Support/whatsapp.png"; 
-import imgContactM from "../Resources/Support/correo.png";
-import imgContactT from "../Resources/Support/telefono.png";
+import imgContactW from "../Resources/Support/WhatsApp.png"; 
+import imgContactM from "../Resources/Support/Correo.png";
+import imgContactT from "../Resources/Support/Telefono.png";
 
 
 export const listContact = [

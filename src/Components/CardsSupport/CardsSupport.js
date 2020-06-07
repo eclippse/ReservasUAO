@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import CardSupport from '../CardSupport/CardSupport.js';
-import { listContact } from '../../Constants/listSupport.js';
+import CardSupport from '../CardSupport/CardSupport';
+import { listContact } from '../../Constants/listSupport';
+import { Grid} from '@material-ui/core';
 
 
 class contCardsSupport extends Component {
@@ -8,16 +9,18 @@ class contCardsSupport extends Component {
     render() {
         return (
             <>
-                <div className="card-deck d-flex justify-content-around p-5">
+                <Grid container spacing={7}>
                     {listContact && listContact.map((listContact, key) =>
+                        <Grid item md={4}>
                         < CardSupport
                             key={key}
                             imgContact={listContact.imgContact}
                             opContact={listContact.opContact}
                             descContact={listContact.descContact}
                         />
+                        </Grid>
                     )}
-                </div>
+                </Grid>
             </>
         );
     }

@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 
  import './Table.css' 
 import { Grid} from '@material-ui/core';
-import Button from "../../Components/Button/ButtonNew.js";
+import Button from "../Button/ButtonNew.js";
 
 import gris from '../../Resources/Tabla/gris.png'
 import rojo from '../../Resources/Tabla/rojo.png'
@@ -31,7 +31,7 @@ const hours = [
     '6:00 a 7:00 pm',
 ]
 
-const Table = ({room, button}) => {
+const Table = ({room, button, Modal_icon, Modal_text, Modal_go}) => {
     const [currentSelection, setCurrentSelection] = useState([])
 
     const handleSelection = (coors) => () => {
@@ -129,7 +129,7 @@ const Table = ({room, button}) => {
 
             </div>
             
-            <Button action={button} />
+            <Button action={button} modal={"true"} icon={Modal_icon} text={Modal_text} go={Modal_go}/>
             
         </div>
         

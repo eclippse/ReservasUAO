@@ -2,14 +2,19 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Login from './Pages/Login/Login'
 
 import * as serviceWorker from './serviceWorker';
+import Routers from './Pages/Routers';
+import { BrowserRouter } from 'react-router-dom';
 
 
 
 ReactDOM.render(
   <React.StrictMode>
-  <App/>
+  <BrowserRouter>
+    <App/>
+  </BrowserRouter>
 </React.StrictMode>,
   document.getElementById('root')
 );

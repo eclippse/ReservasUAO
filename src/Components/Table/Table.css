@@ -108,6 +108,10 @@
     font-weight: 300;
 }
 
+.o-btn-cell:hover{
+    color: #C2272D;
+}
+
 .o-btn-cell-select{
     background: #C2272D;
     color: #fff;
