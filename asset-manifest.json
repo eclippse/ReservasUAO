@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ReservasUAO/static/css/main.f716341b.chunk.css",
-    "main.js": "/ReservasUAO/static/js/main.b8c53cee.chunk.js",
-    "main.js.map": "/ReservasUAO/static/js/main.b8c53cee.chunk.js.map",
+    "main.js": "/ReservasUAO/static/js/main.81ca16f6.chunk.js",
+    "main.js.map": "/ReservasUAO/static/js/main.81ca16f6.chunk.js.map",
     "runtime-main.js": "/ReservasUAO/static/js/runtime-main.aeb0e3ef.js",
     "runtime-main.js.map": "/ReservasUAO/static/js/runtime-main.aeb0e3ef.js.map",
     "static/js/2.3f7ce68c.chunk.js": "/ReservasUAO/static/js/2.3f7ce68c.chunk.js",
     "static/js/2.3f7ce68c.chunk.js.map": "/ReservasUAO/static/js/2.3f7ce68c.chunk.js.map",
     "index.html": "/ReservasUAO/index.html",
-    "precache-manifest.7e2815767a53aeba05202955c8dea090.js": "/ReservasUAO/precache-manifest.7e2815767a53aeba05202955c8dea090.js",
+    "precache-manifest.36bcaee728a77da7a2441cf983ff1acd.js": "/ReservasUAO/precache-manifest.36bcaee728a77da7a2441cf983ff1acd.js",
     "service-worker.js": "/ReservasUAO/service-worker.js",
     "static/css/main.f716341b.chunk.css.map": "/ReservasUAO/static/css/main.f716341b.chunk.css.map",
     "static/js/2.3f7ce68c.chunk.js.LICENSE.txt": "/ReservasUAO/static/js/2.3f7ce68c.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.aeb0e3ef.js",
     "static/js/2.3f7ce68c.chunk.js",
     "static/css/main.f716341b.chunk.css",
-    "static/js/main.b8c53cee.chunk.js"
+    "static/js/main.81ca16f6.chunk.js"
   ]
 }
