@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf9c0fd170718d452c40de8decc748c7",
+    "revision": "4e7370a4d833f146a8f95bacde72b21e",
     "url": "/ReservasUAO/index.html"
   },
   {
-    "revision": "856673659f938815d350",
-    "url": "/ReservasUAO/static/css/main.6f89be93.chunk.css"
+    "revision": "ba56e427cbe7784a91a0",
+    "url": "/ReservasUAO/static/css/main.f716341b.chunk.css"
   },
   {
-    "revision": "84be2846c4db7c2f558a",
-    "url": "/ReservasUAO/static/js/2.1a1c9fa1.chunk.js"
+    "revision": "758f4269ea199aea0d2b",
+    "url": "/ReservasUAO/static/js/2.3f7ce68c.chunk.js"
   },
   {
     "revision": "eac4cf64bf573541fd6dba29c78393a0",
-    "url": "/ReservasUAO/static/js/2.1a1c9fa1.chunk.js.LICENSE.txt"
+    "url": "/ReservasUAO/static/js/2.3f7ce68c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "856673659f938815d350",
-    "url": "/ReservasUAO/static/js/main.37cadefe.chunk.js"
+    "revision": "ba56e427cbe7784a91a0",
+    "url": "/ReservasUAO/static/js/main.0fcf8fd3.chunk.js"
   },
   {
     "revision": "b1e03e34b56d20e0d333",

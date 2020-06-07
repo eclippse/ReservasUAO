@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ReservasUAO/static/css/main.6f89be93.chunk.css",
-    "main.js": "/ReservasUAO/static/js/main.37cadefe.chunk.js",
-    "main.js.map": "/ReservasUAO/static/js/main.37cadefe.chunk.js.map",
+    "main.css": "/ReservasUAO/static/css/main.f716341b.chunk.css",
+    "main.js": "/ReservasUAO/static/js/main.0fcf8fd3.chunk.js",
+    "main.js.map": "/ReservasUAO/static/js/main.0fcf8fd3.chunk.js.map",
     "runtime-main.js": "/ReservasUAO/static/js/runtime-main.aeb0e3ef.js",
     "runtime-main.js.map": "/ReservasUAO/static/js/runtime-main.aeb0e3ef.js.map",
-    "static/js/2.1a1c9fa1.chunk.js": "/ReservasUAO/static/js/2.1a1c9fa1.chunk.js",
-    "static/js/2.1a1c9fa1.chunk.js.map": "/ReservasUAO/static/js/2.1a1c9fa1.chunk.js.map",
+    "static/js/2.3f7ce68c.chunk.js": "/ReservasUAO/static/js/2.3f7ce68c.chunk.js",
+    "static/js/2.3f7ce68c.chunk.js.map": "/ReservasUAO/static/js/2.3f7ce68c.chunk.js.map",
     "index.html": "/ReservasUAO/index.html",
-    "precache-manifest.90bf82d88399d05152b89bd4cf60b33f.js": "/ReservasUAO/precache-manifest.90bf82d88399d05152b89bd4cf60b33f.js",
+    "precache-manifest.e164bea55437f0b9e1a502bc81c4615c.js": "/ReservasUAO/precache-manifest.e164bea55437f0b9e1a502bc81c4615c.js",
     "service-worker.js": "/ReservasUAO/service-worker.js",
-    "static/css/main.6f89be93.chunk.css.map": "/ReservasUAO/static/css/main.6f89be93.chunk.css.map",
-    "static/js/2.1a1c9fa1.chunk.js.LICENSE.txt": "/ReservasUAO/static/js/2.1a1c9fa1.chunk.js.LICENSE.txt",
+    "static/css/main.f716341b.chunk.css.map": "/ReservasUAO/static/css/main.f716341b.chunk.css.map",
+    "static/js/2.3f7ce68c.chunk.js.LICENSE.txt": "/ReservasUAO/static/js/2.3f7ce68c.chunk.js.LICENSE.txt",
     "static/media/97490558_3423786350998934_5278027736017797120_o.png": "/ReservasUAO/static/media/97490558_3423786350998934_5278027736017797120_o.2345adad.png",
     "static/media/98206597_3457902510920651_9156930404614144000_o.png": "/ReservasUAO/static/media/98206597_3457902510920651_9156930404614144000_o.5bf0c0e8.png",
     "static/media/98447653_3452224514821784_595117677920387072_o.png": "/ReservasUAO/static/media/98447653_3452224514821784_595117677920387072_o.dabacba2.png",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.aeb0e3ef.js",
-    "static/js/2.1a1c9fa1.chunk.js",
-    "static/css/main.6f89be93.chunk.css",
-    "static/js/main.37cadefe.chunk.js"
+    "static/js/2.3f7ce68c.chunk.js",
+    "static/css/main.f716341b.chunk.css",
+    "static/js/main.0fcf8fd3.chunk.js"
   ]
 }
