@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ccc5d8c3596eeb0c034b2c5c690c37d5",
+    "revision": "838363d6d3634a52da40d5c1577368f9",
     "url": "/ReservasUAO/index.html"
   },
   {
-    "revision": "558d300ac2f66e8b0973",
+    "revision": "dbbb13fec72d78ab105e",
     "url": "/ReservasUAO/static/css/main.9a387111.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReservasUAO/static/js/2.85cc7a82.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "558d300ac2f66e8b0973",
-    "url": "/ReservasUAO/static/js/main.4688a821.chunk.js"
+    "revision": "dbbb13fec72d78ab105e",
+    "url": "/ReservasUAO/static/js/main.9241fc49.chunk.js"
   },
   {
     "revision": "b1e03e34b56d20e0d333",
