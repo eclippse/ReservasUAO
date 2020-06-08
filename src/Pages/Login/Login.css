@@ -1,0 +1,78 @@
+.o-container-login{
+    padding: 50px 100px;
+}
+
+.o-container-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.o-container-img img {
+    width: 80%;
+}
+
+.o-form{
+    padding: 0 20px;
+}
+
+.o-login-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.o-container-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.o-container-logo img{
+    width: 100%;
+}
+
+.o-line{
+    border-top: 1px solid rgb(150, 150, 150);
+    padding-bottom: 30px;
+    width: 70%;
+    margin-top: 20px;
+}
+
+.o-login{
+    color: #AE002D;
+    font-size: 24px;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+
+.o-user{
+    border: 1px solid rgb(124, 124, 124);
+    border-radius: 5px;
+    background-image: url('../../Resources/Login/usuario.png'); 
+    background-position: 5px center;
+    background-size: 15px; 
+    background-repeat: no-repeat;
+    padding: 18px 25px;
+    height: 30px;
+    margin-bottom: 15px;
+
+}
+
+.o-psd{
+    border: 1px solid rgb(124, 124, 124);
+    border-radius: 5px;
+    background-image: url('../../Resources/Login/contraseña.png'); 
+    background-position: 5px center;
+    background-size: 15px; 
+    background-repeat: no-repeat;
+    padding: 18px 25px;
+    height: 30px;
+
+}
+
+.o-login-form p{
+    text-align: center;
+    font-size: 14px;
+}
+

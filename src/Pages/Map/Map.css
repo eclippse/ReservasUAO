@@ -1,0 +1,24 @@
+.o-reservation-text{
+    display: flex;
+    align-items: center;
+}
+
+.o-reservation-text img {
+    width: 22px;
+}
+
+.o-container-map img{
+    width: 100%;
+}
+
+.o-reservation-text h6{
+    margin: 0;
+    padding: 20px 10px;
+    font-size: 18px;
+    color: #AE002D;
+
+}
+
+.o-container h1{
+    font-size: 26px;
+}

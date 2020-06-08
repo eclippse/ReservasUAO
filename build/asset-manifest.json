@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/UAOReservas/static/css/main.9a387111.chunk.css",
+    "main.js": "/UAOReservas/static/js/main.ab613f0f.chunk.js",
+    "main.js.map": "/UAOReservas/static/js/main.ab613f0f.chunk.js.map",
+    "runtime-main.js": "/UAOReservas/static/js/runtime-main.5d8af063.js",
+    "runtime-main.js.map": "/UAOReservas/static/js/runtime-main.5d8af063.js.map",
+    "static/js/2.85cc7a82.chunk.js": "/UAOReservas/static/js/2.85cc7a82.chunk.js",
+    "static/js/2.85cc7a82.chunk.js.map": "/UAOReservas/static/js/2.85cc7a82.chunk.js.map",
+    "index.html": "/UAOReservas/index.html",
+    "precache-manifest.2a92e2a37b1782f460845f39061c8808.js": "/UAOReservas/precache-manifest.2a92e2a37b1782f460845f39061c8808.js",
+    "service-worker.js": "/UAOReservas/service-worker.js",
+    "static/css/main.9a387111.chunk.css.map": "/UAOReservas/static/css/main.9a387111.chunk.css.map",
+    "static/js/2.85cc7a82.chunk.js.LICENSE.txt": "/UAOReservas/static/js/2.85cc7a82.chunk.js.LICENSE.txt",
+    "static/media/97490558_3423786350998934_5278027736017797120_o.jpg": "/UAOReservas/static/media/97490558_3423786350998934_5278027736017797120_o.4d428b26.jpg",
+    "static/media/98206597_3457902510920651_9156930404614144000_o.jpg": "/UAOReservas/static/media/98206597_3457902510920651_9156930404614144000_o.608a4768.jpg",
+    "static/media/98447653_3452224514821784_595117677920387072_o.jpg": "/UAOReservas/static/media/98447653_3452224514821784_595117677920387072_o.61a30169.jpg",
+    "static/media/98807578_3453338404710395_6862215621304647680_o.jpg": "/UAOReservas/static/media/98807578_3453338404710395_6862215621304647680_o.3c0d265e.jpg",
+    "static/media/99292859_3465365123507723_6752478790280019968_o.jpg": "/UAOReservas/static/media/99292859_3465365123507723_6752478790280019968_o.0e74914b.jpg",
+    "static/media/LogoA.png": "/UAOReservas/static/media/LogoA.56391028.png",
+    "static/media/imagen-login.png": "/UAOReservas/static/media/imagen-login.46cc2ddc.png",
+    "static/media/imgUser.png": "/UAOReservas/static/media/imgUser.b7be6840.png",
+    "static/media/logoN.png": "/UAOReservas/static/media/logoN.30d93a18.png",
+    "static/media/logo_Horizontal.png": "/UAOReservas/static/media/logo_Horizontal.8dd81963.png",
+    "static/media/mapa.png": "/UAOReservas/static/media/mapa.de1d141c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d8af063.js",
+    "static/js/2.85cc7a82.chunk.js",
+    "static/css/main.9a387111.chunk.css",
+    "static/js/main.ab613f0f.chunk.js"
+  ]
+}

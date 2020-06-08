@@ -1,0 +1,26 @@
+.o-container-event{
+}
+
+.o-container-imgE img{
+    width: 100%;
+    border-radius: 15px 15px 0 0;
+}
+
+.o-location-home{
+    text-align: center;
+    background: #1A1A1A;
+    color: #fff;
+    padding: 10px 0;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.o-info{
+    text-align: justify;
+    padding: 30px 40px 0 40px;
+}
+
+.o-info h5{
+    text-align: center;
+    padding-bottom: 10px;
+}
